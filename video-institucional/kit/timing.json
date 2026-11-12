@@ -1,0 +1,86 @@
+{
+ "total": 242.24,
+ "audio": 238.436,
+ "scenes": [
+  {
+   "nome": "01a-gancho",
+   "start": 0,
+   "end": 5.27
+  },
+  {
+   "nome": "01b-gancho",
+   "start": 5.27,
+   "end": 17.6
+  },
+  {
+   "nome": "02a-boas-vindas",
+   "start": 17.6,
+   "end": 25.02
+  },
+  {
+   "nome": "02b-trilha",
+   "start": 25.02,
+   "end": 31.26
+  },
+  {
+   "nome": "03-modelo",
+   "start": 31.26,
+   "end": 47.55
+  },
+  {
+   "nome": "04-bloco",
+   "start": 47.55,
+   "end": 69.14
+  },
+  {
+   "nome": "05a-trabalhos",
+   "start": 69.14,
+   "end": 91.84
+  },
+  {
+   "nome": "05b-prova",
+   "start": 91.84,
+   "end": 103.36
+  },
+  {
+   "nome": "05c-ia",
+   "start": 103.36,
+   "end": 118.96
+  },
+  {
+   "nome": "06-conceitos",
+   "start": 118.96,
+   "end": 153.91
+  },
+  {
+   "nome": "07-presenca",
+   "start": 153.91,
+   "end": 175.58
+  },
+  {
+   "nome": "08-sistemas",
+   "start": 175.58,
+   "end": 192.02
+  },
+  {
+   "nome": "09a-apoio",
+   "start": 192.02,
+   "end": 205.47
+  },
+  {
+   "nome": "09b-dedicacao",
+   "start": 205.47,
+   "end": 217.31
+  },
+  {
+   "nome": "10-passos",
+   "start": 217.31,
+   "end": 234
+  },
+  {
+   "nome": "11-fecho",
+   "start": 234,
+   "end": 242.24
+  }
+ ]
+}

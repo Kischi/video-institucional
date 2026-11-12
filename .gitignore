@@ -1,0 +1,11 @@
+node_modules/
+__pycache__/
+*.tmp.mp4
+video-institucional/kit/audio/seg*.wav
+video-institucional/kit/audio/*.wav
+video-institucional/kit/narrador/partes/
+video-institucional/kit/narrador/base-narrador.mp4
+video-institucional/kit/narrador/audio-narrador.mp3
+video-institucional/kit/assets/narrador.mp4
+video-institucional/kit/snaps*/
+video-institucional/kit/renders/

@@ -1,0 +1,4076 @@
+[
+{
+"text": "O",
+"start": 0.0,
+"end": 0.073,
+"part": 1
+},
+{
+"text": "mercado",
+"start": 0.182,
+"end": 0.436,
+"part": 1
+},
+{
+"text": "de",
+"start": 0.509,
+"end": 0.582,
+"part": 1
+},
+{
+"text": "trabalho",
+"start": 0.618,
+"end": 1.018,
+"part": 1
+},
+{
+"text": "não",
+"start": 1.164,
+"end": 1.382,
+"part": 1
+},
+{
+"text": "quer",
+"start": 1.491,
+"end": 1.6,
+"part": 1
+},
+{
+"text": "saber",
+"start": 1.673,
+"end": 1.891,
+"part": 1
+},
+{
+"text": "o",
+"start": 1.964,
+"end": 2.036,
+"part": 1
+},
+{
+"text": "que",
+"start": 2.061,
+"end": 2.085,
+"part": 1
+},
+{
+"text": "você",
+"start": 2.109,
+"end": 2.327,
+"part": 1
+},
+{
+"text": "decorou",
+"start": 2.473,
+"end": 2.691,
+"part": 1
+},
+{
+"text": "na",
+"start": 2.764,
+"end": 2.836,
+"part": 1
+},
+{
+"text": "faculdade,",
+"start": 2.909,
+"end": 3.636,
+"part": 1
+},
+{
+"text": "mas",
+"start": 3.709,
+"end": 3.782,
+"part": 1
+},
+{
+"text": "o",
+"start": 3.855,
+"end": 3.891,
+"part": 1
+},
+{
+"text": "que",
+"start": 3.927,
+"end": 3.964,
+"part": 1
+},
+{
+"text": "você",
+"start": 4.0,
+"end": 4.218,
+"part": 1
+},
+{
+"text": "consegue",
+"start": 4.364,
+"end": 4.8,
+"part": 1
+},
+{
+"text": "fazer.",
+"start": 4.873,
+"end": 5.491,
+"part": 1
+},
+{
+"text": "E",
+"start": 5.673,
+"end": 5.745,
+"part": 1
+},
+{
+"text": "só",
+"start": 5.782,
+"end": 5.855,
+"part": 1
+},
+{
+"text": "existe",
+"start": 5.891,
+"end": 6.255,
+"part": 1
+},
+{
+"text": "um",
+"start": 6.4,
+"end": 6.545,
+"part": 1
+},
+{
+"text": "jeito",
+"start": 6.618,
+"end": 6.909,
+"part": 1
+},
+{
+"text": "de",
+"start": 6.945,
+"end": 6.982,
+"part": 1
+},
+{
+"text": "aprender",
+"start": 7.018,
+"end": 7.273,
+"part": 1
+},
+{
+"text": "a",
+"start": 7.345,
+"end": 7.382,
+"part": 1
+},
+{
+"text": "fazer:",
+"start": 7.418,
+"end": 8.145,
+"part": 1
+},
+{
+"text": "fazendo.",
+"start": 8.182,
+"end": 8.945,
+"part": 1
+},
+{
+"text": "Aqui,",
+"start": 9.164,
+"end": 9.709,
+"part": 1
+},
+{
+"text": "todo",
+"start": 9.891,
+"end": 10.109,
+"part": 1
+},
+{
+"text": "semestre",
+"start": 10.182,
+"end": 10.618,
+"part": 1
+},
+{
+"text": "você",
+"start": 10.655,
+"end": 10.836,
+"part": 1
+},
+{
+"text": "desenvolve",
+"start": 10.909,
+"end": 11.418,
+"part": 1
+},
+{
+"text": "e",
+"start": 11.491,
+"end": 11.564,
+"part": 1
+},
+{
+"text": "apresenta",
+"start": 11.636,
+"end": 12.073,
+"part": 1
+},
+{
+"text": "ao",
+"start": 12.145,
+"end": 12.291,
+"part": 1
+},
+{
+"text": "vivo",
+"start": 12.436,
+"end": 12.655,
+"part": 1
+},
+{
+"text": "um",
+"start": 12.691,
+"end": 12.727,
+"part": 1
+},
+{
+"text": "projeto,",
+"start": 12.836,
+"end": 13.527,
+"part": 1
+},
+{
+"text": "igual",
+"start": 13.636,
+"end": 13.818,
+"part": 1
+},
+{
+"text": "ao",
+"start": 13.891,
+"end": 13.964,
+"part": 1
+},
+{
+"text": "que",
+"start": 14.0,
+"end": 14.036,
+"part": 1
+},
+{
+"text": "faria",
+"start": 14.109,
+"end": 14.327,
+"part": 1
+},
+{
+"text": "em",
+"start": 14.364,
+"end": 14.4,
+"part": 1
+},
+{
+"text": "uma",
+"start": 14.473,
+"end": 14.545,
+"part": 1
+},
+{
+"text": "empresa.",
+"start": 14.8,
+"end": 15.236,
+"part": 1
+},
+{
+"text": "É",
+"start": 15.418,
+"end": 15.491,
+"part": 1
+},
+{
+"text": "assim",
+"start": 15.564,
+"end": 15.927,
+"part": 1
+},
+{
+"text": "que",
+"start": 15.964,
+"end": 16.0,
+"part": 1
+},
+{
+"text": "se",
+"start": 16.073,
+"end": 16.145,
+"part": 1
+},
+{
+"text": "aprende",
+"start": 16.218,
+"end": 16.436,
+"part": 1
+},
+{
+"text": "de",
+"start": 16.509,
+"end": 16.582,
+"part": 1
+},
+{
+"text": "verdade.",
+"start": 16.655,
+"end": 17.273,
+"part": 1
+},
+{
+"text": "Olá.",
+"start": 18.0,
+"end": 18.509,
+"part": 2
+},
+{
+"text": "Eu",
+"start": 18.655,
+"end": 18.727,
+"part": 2
+},
+{
+"text": "sou",
+"start": 18.8,
+"end": 18.945,
+"part": 2
+},
+{
+"text": "André",
+"start": 19.018,
+"end": 19.236,
+"part": 2
+},
+{
+"text": "Kischinevsky,",
+"start": 19.273,
+"end": 20.036,
+"part": 2
+},
+{
+"text": "Diretor",
+"start": 20.145,
+"end": 20.473,
+"part": 2
+},
+{
+"text": "da",
+"start": 20.545,
+"end": 20.582,
+"part": 2
+},
+{
+"text": "Faculdade",
+"start": 20.618,
+"end": 21.055,
+"part": 2
+},
+{
+"text": "Infnet.",
+"start": 21.2,
+"end": 21.964,
+"part": 2
+},
+{
+"text": "Seja",
+"start": 22.145,
+"end": 22.364,
+"part": 2
+},
+{
+"text": "bem-vindo,",
+"start": 22.436,
+"end": 23.091,
+"part": 2
+},
+{
+"text": "seja",
+"start": 23.127,
+"end": 23.309,
+"part": 2
+},
+{
+"text": "bem-vinda",
+"start": 23.345,
+"end": 23.891,
+"part": 2
+},
+{
+"text": "à",
+"start": 23.964,
+"end": 24.036,
+"part": 2
+},
+{
+"text": "sua",
+"start": 24.182,
+"end": 24.4,
+"part": 2
+},
+{
+"text": "faculdade.",
+"start": 24.473,
+"end": 25.055,
+"part": 2
+},
+{
+"text": "Em",
+"start": 25.418,
+"end": 25.564,
+"part": 2
+},
+{
+"text": "poucos",
+"start": 25.612,
+"end": 25.855,
+"part": 2
+},
+{
+"text": "minutos,",
+"start": 25.927,
+"end": 26.315,
+"part": 2
+},
+{
+"text": "você",
+"start": 26.339,
+"end": 26.509,
+"part": 2
+},
+{
+"text": "vai",
+"start": 26.534,
+"end": 26.582,
+"part": 2
+},
+{
+"text": "entender",
+"start": 26.655,
+"end": 26.945,
+"part": 2
+},
+{
+"text": "como",
+"start": 27.018,
+"end": 27.236,
+"part": 2
+},
+{
+"text": "tudo",
+"start": 27.382,
+"end": 27.6,
+"part": 2
+},
+{
+"text": "funciona",
+"start": 27.673,
+"end": 28.036,
+"part": 2
+},
+{
+"text": "por",
+"start": 28.109,
+"end": 28.182,
+"part": 2
+},
+{
+"text": "aqui",
+"start": 28.255,
+"end": 28.473,
+"part": 2
+},
+{
+"text": "e",
+"start": 28.764,
+"end": 28.836,
+"part": 2
+},
+{
+"text": "o",
+"start": 28.885,
+"end": 28.934,
+"part": 2
+},
+{
+"text": "que",
+"start": 28.982,
+"end": 29.055,
+"part": 2
+},
+{
+"text": "fazer",
+"start": 29.127,
+"end": 29.418,
+"part": 2
+},
+{
+"text": "para",
+"start": 29.491,
+"end": 29.636,
+"part": 2
+},
+{
+"text": "começar",
+"start": 29.745,
+"end": 30.0,
+"part": 2
+},
+{
+"text": "com",
+"start": 30.073,
+"end": 30.145,
+"part": 2
+},
+{
+"text": "o",
+"start": 30.182,
+"end": 30.218,
+"part": 2
+},
+{
+"text": "pé",
+"start": 30.291,
+"end": 30.436,
+"part": 2
+},
+{
+"text": "direito.",
+"start": 30.545,
+"end": 31.091,
+"part": 2
+},
+{
+"text": "Para",
+"start": 31.655,
+"end": 31.691,
+"part": 3
+},
+{
+"text": "você",
+"start": 31.764,
+"end": 31.909,
+"part": 3
+},
+{
+"text": "aprender",
+"start": 31.982,
+"end": 32.345,
+"part": 3
+},
+{
+"text": "fazendo,",
+"start": 32.382,
+"end": 33.073,
+"part": 3
+},
+{
+"text": "nosso",
+"start": 33.145,
+"end": 33.291,
+"part": 3
+},
+{
+"text": "modelo",
+"start": 33.364,
+"end": 33.655,
+"part": 3
+},
+{
+"text": "de",
+"start": 33.727,
+"end": 33.764,
+"part": 3
+},
+{
+"text": "ensino",
+"start": 33.8,
+"end": 34.236,
+"part": 3
+},
+{
+"text": "combina",
+"start": 34.345,
+"end": 34.527,
+"part": 3
+},
+{
+"text": "o",
+"start": 34.564,
+"end": 34.6,
+"part": 3
+},
+{
+"text": "aprendizado",
+"start": 34.673,
+"end": 35.255,
+"part": 3
+},
+{
+"text": "por",
+"start": 35.327,
+"end": 35.4,
+"part": 3
+},
+{
+"text": "competências",
+"start": 35.545,
+"end": 36.2,
+"part": 3
+},
+{
+"text": "e",
+"start": 36.273,
+"end": 36.321,
+"part": 3
+},
+{
+"text": "o",
+"start": 36.37,
+"end": 36.418,
+"part": 3
+},
+{
+"text": "desenvolvimento",
+"start": 36.491,
+"end": 37.073,
+"part": 3
+},
+{
+"text": "de",
+"start": 37.145,
+"end": 37.218,
+"part": 3
+},
+{
+"text": "projetos,",
+"start": 37.327,
+"end": 38.091,
+"part": 3
+},
+{
+"text": "criando",
+"start": 38.164,
+"end": 38.382,
+"part": 3
+},
+{
+"text": "desafios",
+"start": 38.455,
+"end": 38.891,
+"part": 3
+},
+{
+"text": "parecidos",
+"start": 38.964,
+"end": 39.473,
+"part": 3
+},
+{
+"text": "com",
+"start": 39.545,
+"end": 39.618,
+"part": 3
+},
+{
+"text": "os",
+"start": 39.655,
+"end": 39.691,
+"part": 3
+},
+{
+"text": "da",
+"start": 39.764,
+"end": 39.836,
+"part": 3
+},
+{
+"text": "sua",
+"start": 39.885,
+"end": 39.982,
+"part": 3
+},
+{
+"text": "futura",
+"start": 40.055,
+"end": 40.418,
+"part": 3
+},
+{
+"text": "carreira.",
+"start": 40.491,
+"end": 41.291,
+"part": 3
+},
+{
+"text": "Em",
+"start": 41.4,
+"end": 41.509,
+"part": 3
+},
+{
+"text": "cada",
+"start": 41.582,
+"end": 41.727,
+"part": 3
+},
+{
+"text": "disciplina,",
+"start": 41.836,
+"end": 42.527,
+"part": 3
+},
+{
+"text": "você",
+"start": 42.564,
+"end": 42.745,
+"part": 3
+},
+{
+"text": "desenvolve",
+"start": 42.818,
+"end": 43.182,
+"part": 3
+},
+{
+"text": "as",
+"start": 43.255,
+"end": 43.327,
+"part": 3
+},
+{
+"text": "competências",
+"start": 43.473,
+"end": 43.909,
+"part": 3
+},
+{
+"text": "em",
+"start": 43.945,
+"end": 43.982,
+"part": 3
+},
+{
+"text": "exercícios",
+"start": 44.055,
+"end": 44.491,
+"part": 3
+},
+{
+"text": "práticos",
+"start": 44.564,
+"end": 45.073,
+"part": 3
+},
+{
+"text": "e",
+"start": 45.291,
+"end": 45.327,
+"part": 3
+},
+{
+"text": "é",
+"start": 45.364,
+"end": 45.412,
+"part": 3
+},
+{
+"text": "aprovado",
+"start": 45.461,
+"end": 45.945,
+"part": 3
+},
+{
+"text": "quando",
+"start": 46.018,
+"end": 46.164,
+"part": 3
+},
+{
+"text": "demonstra",
+"start": 46.2,
+"end": 46.673,
+"part": 3
+},
+{
+"text": "todas",
+"start": 46.745,
+"end": 47.109,
+"part": 3
+},
+{
+"text": "elas.",
+"start": 47.182,
+"end": 47.909,
+"part": 3
+},
+{
+"text": "A",
+"start": 47.945,
+"end": 47.982,
+"part": 3
+},
+{
+"text": "graduação",
+"start": 48.055,
+"end": 48.564,
+"part": 3
+},
+{
+"text": "é",
+"start": 48.636,
+"end": 48.709,
+"part": 3
+},
+{
+"text": "organizada",
+"start": 48.818,
+"end": 49.145,
+"part": 3
+},
+{
+"text": "em",
+"start": 49.218,
+"end": 49.291,
+"part": 3
+},
+{
+"text": "blocos.",
+"start": 49.327,
+"end": 50.164,
+"part": 3
+},
+{
+"text": "Cada",
+"start": 50.236,
+"end": 50.382,
+"part": 3
+},
+{
+"text": "bloco",
+"start": 50.455,
+"end": 50.745,
+"part": 3
+},
+{
+"text": "tem",
+"start": 50.818,
+"end": 50.891,
+"part": 3
+},
+{
+"text": "um",
+"start": 50.927,
+"end": 50.964,
+"part": 3
+},
+{
+"text": "tema",
+"start": 51.036,
+"end": 51.182,
+"part": 3
+},
+{
+"text": "central",
+"start": 51.255,
+"end": 51.691,
+"part": 3
+},
+{
+"text": "e",
+"start": 51.764,
+"end": 51.836,
+"part": 3
+},
+{
+"text": "dura",
+"start": 51.909,
+"end": 52.127,
+"part": 3
+},
+{
+"text": "dois",
+"start": 52.2,
+"end": 52.345,
+"part": 3
+},
+{
+"text": "trimestres.",
+"start": 52.418,
+"end": 53.436,
+"part": 3
+},
+{
+"text": "São",
+"start": 53.473,
+"end": 53.655,
+"part": 3
+},
+{
+"text": "quatro",
+"start": 53.727,
+"end": 53.945,
+"part": 3
+},
+{
+"text": "Disciplinas",
+"start": 54.018,
+"end": 54.455,
+"part": 3
+},
+{
+"text": "Regulares,",
+"start": 54.527,
+"end": 55.109,
+"part": 3
+},
+{
+"text": "com",
+"start": 55.145,
+"end": 55.182,
+"part": 3
+},
+{
+"text": "aulas",
+"start": 55.255,
+"end": 55.473,
+"part": 3
+},
+{
+"text": "duas",
+"start": 55.618,
+"end": 55.836,
+"part": 3
+},
+{
+"text": "vezes",
+"start": 55.909,
+"end": 56.127,
+"part": 3
+},
+{
+"text": "por",
+"start": 56.2,
+"end": 56.273,
+"part": 3
+},
+{
+"text": "semana,",
+"start": 56.345,
+"end": 57.0,
+"part": 3
+},
+{
+"text": "e",
+"start": 57.036,
+"end": 57.073,
+"part": 3
+},
+{
+"text": "um",
+"start": 57.109,
+"end": 57.145,
+"part": 3
+},
+{
+"text": "Projeto",
+"start": 57.218,
+"end": 57.655,
+"part": 3
+},
+{
+"text": "de",
+"start": 57.691,
+"end": 57.727,
+"part": 3
+},
+{
+"text": "Bloco,",
+"start": 57.8,
+"end": 58.382,
+"part": 3
+},
+{
+"text": "com",
+"start": 58.455,
+"end": 58.527,
+"part": 3
+},
+{
+"text": "um",
+"start": 58.564,
+"end": 58.6,
+"part": 3
+},
+{
+"text": "encontro",
+"start": 58.673,
+"end": 59.036,
+"part": 3
+},
+{
+"text": "semanal",
+"start": 59.109,
+"end": 59.545,
+"part": 3
+},
+{
+"text": "durante",
+"start": 59.618,
+"end": 59.836,
+"part": 3
+},
+{
+"text": "os",
+"start": 59.909,
+"end": 59.982,
+"part": 3
+},
+{
+"text": "seis",
+"start": 60.055,
+"end": 60.273,
+"part": 3
+},
+{
+"text": "meses.",
+"start": 60.345,
+"end": 60.782,
+"part": 3
+},
+{
+"text": "O",
+"start": 61.145,
+"end": 61.218,
+"part": 3
+},
+{
+"text": "seu",
+"start": 61.255,
+"end": 61.364,
+"part": 3
+},
+{
+"text": "primeiro",
+"start": 61.473,
+"end": 61.655,
+"part": 3
+},
+{
+"text": "bloco",
+"start": 61.727,
+"end": 62.018,
+"part": 3
+},
+{
+"text": "é",
+"start": 62.091,
+"end": 62.164,
+"part": 3
+},
+{
+"text": "chamado",
+"start": 62.2,
+"end": 62.455,
+"part": 3
+},
+{
+"text": "de",
+"start": 62.527,
+"end": 62.6,
+"part": 3
+},
+{
+"text": "Bloco",
+"start": 62.673,
+"end": 62.891,
+"part": 3
+},
+{
+"text": "de",
+"start": 62.964,
+"end": 63.0,
+"part": 3
+},
+{
+"text": "Entrada,",
+"start": 63.036,
+"end": 63.764,
+"part": 3
+},
+{
+"text": "e",
+"start": 63.8,
+"end": 63.836,
+"part": 3
+},
+{
+"text": "é",
+"start": 63.873,
+"end": 63.909,
+"part": 3
+},
+{
+"text": "comum",
+"start": 63.982,
+"end": 64.2,
+"part": 3
+},
+{
+"text": "encontrar",
+"start": 64.273,
+"end": 64.636,
+"part": 3
+},
+{
+"text": "na",
+"start": 64.673,
+"end": 64.709,
+"part": 3
+},
+{
+"text": "turma",
+"start": 64.855,
+"end": 65.073,
+"part": 3
+},
+{
+"text": "colegas",
+"start": 65.145,
+"end": 65.509,
+"part": 3
+},
+{
+"text": "de",
+"start": 65.545,
+"end": 65.582,
+"part": 3
+},
+{
+"text": "várias",
+"start": 65.727,
+"end": 65.945,
+"part": 3
+},
+{
+"text": "graduações,",
+"start": 66.018,
+"end": 66.891,
+"part": 3
+},
+{
+"text": "quase",
+"start": 66.964,
+"end": 67.182,
+"part": 3
+},
+{
+"text": "todos",
+"start": 67.327,
+"end": 67.618,
+"part": 3
+},
+{
+"text": "começando",
+"start": 67.727,
+"end": 67.982,
+"part": 3
+},
+{
+"text": "a",
+"start": 68.006,
+"end": 68.03,
+"part": 3
+},
+{
+"text": "faculdade",
+"start": 68.055,
+"end": 68.418,
+"part": 3
+},
+{
+"text": "agora.",
+"start": 68.491,
+"end": 69.0,
+"part": 3
+},
+{
+"text": "Durante",
+"start": 69.545,
+"end": 69.8,
+"part": 4
+},
+{
+"text": "as",
+"start": 69.836,
+"end": 69.891,
+"part": 4
+},
+{
+"text": "disciplinas,",
+"start": 69.909,
+"end": 70.709,
+"part": 4
+},
+{
+"text": "você",
+"start": 70.745,
+"end": 70.927,
+"part": 4
+},
+{
+"text": "entrega",
+"start": 71.0,
+"end": 71.291,
+"part": 4
+},
+{
+"text": "Testes",
+"start": 71.436,
+"end": 71.727,
+"part": 4
+},
+{
+"text": "de",
+"start": 71.8,
+"end": 71.836,
+"part": 4
+},
+{
+"text": "Performance,",
+"start": 71.873,
+"end": 72.673,
+"part": 4
+},
+{
+"text": "os",
+"start": 72.745,
+"end": 72.818,
+"part": 4
+},
+{
+"text": "tepês:",
+"start": 72.927,
+"end": 73.764,
+"part": 4
+},
+{
+"text": "três",
+"start": 73.836,
+"end": 74.127,
+"part": 4
+},
+{
+"text": "em",
+"start": 74.2,
+"end": 74.345,
+"part": 4
+},
+{
+"text": "cada",
+"start": 74.418,
+"end": 74.636,
+"part": 4
+},
+{
+"text": "Disciplina",
+"start": 74.709,
+"end": 75.073,
+"part": 4
+},
+{
+"text": "Regular",
+"start": 75.291,
+"end": 75.509,
+"part": 4
+},
+{
+"text": "e",
+"start": 75.8,
+"end": 75.873,
+"part": 4
+},
+{
+"text": "cinco",
+"start": 76.018,
+"end": 76.309,
+"part": 4
+},
+{
+"text": "na",
+"start": 76.382,
+"end": 76.455,
+"part": 4
+},
+{
+"text": "disciplina",
+"start": 76.527,
+"end": 76.891,
+"part": 4
+},
+{
+"text": "de",
+"start": 76.964,
+"end": 77.0,
+"part": 4
+},
+{
+"text": "Projeto",
+"start": 77.036,
+"end": 77.4,
+"part": 4
+},
+{
+"text": "de",
+"start": 77.473,
+"end": 77.509,
+"part": 4
+},
+{
+"text": "Bloco.",
+"start": 77.545,
+"end": 77.982,
+"part": 4
+},
+{
+"text": "A",
+"start": 78.273,
+"end": 78.309,
+"part": 4
+},
+{
+"text": "entrega",
+"start": 78.345,
+"end": 78.782,
+"part": 4
+},
+{
+"text": "é",
+"start": 78.855,
+"end": 79.0,
+"part": 4
+},
+{
+"text": "obrigatória.",
+"start": 79.073,
+"end": 79.873,
+"part": 4
+},
+{
+"text": "No",
+"start": 80.382,
+"end": 80.455,
+"part": 4
+},
+{
+"text": "fim",
+"start": 80.527,
+"end": 80.6,
+"part": 4
+},
+{
+"text": "da",
+"start": 80.673,
+"end": 80.709,
+"part": 4
+},
+{
+"text": "disciplina",
+"start": 80.745,
+"end": 81.255,
+"part": 4
+},
+{
+"text": "vem",
+"start": 81.327,
+"end": 81.473,
+"part": 4
+},
+{
+"text": "o",
+"start": 81.509,
+"end": 81.545,
+"part": 4
+},
+{
+"text": "asséssment,",
+"start": 81.655,
+"end": 82.345,
+"part": 4
+},
+{
+"text": "um",
+"start": 82.382,
+"end": 82.418,
+"part": 4
+},
+{
+"text": "trabalho",
+"start": 82.491,
+"end": 82.855,
+"part": 4
+},
+{
+"text": "individual:",
+"start": 83.182,
+"end": 83.945,
+"part": 4
+},
+{
+"text": "o",
+"start": 83.97,
+"end": 83.994,
+"part": 4
+},
+{
+"text": "enunciado",
+"start": 84.018,
+"end": 84.527,
+"part": 4
+},
+{
+"text": "costuma",
+"start": 84.6,
+"end": 84.818,
+"part": 4
+},
+{
+"text": "sair",
+"start": 84.891,
+"end": 85.109,
+"part": 4
+},
+{
+"text": "até",
+"start": 85.182,
+"end": 85.291,
+"part": 4
+},
+{
+"text": "a",
+"start": 85.327,
+"end": 85.4,
+"part": 4
+},
+{
+"text": "nona",
+"start": 85.473,
+"end": 85.691,
+"part": 4
+},
+{
+"text": "semana",
+"start": 85.764,
+"end": 86.055,
+"part": 4
+},
+{
+"text": "do",
+"start": 86.127,
+"end": 86.164,
+"part": 4
+},
+{
+"text": "trimestre,",
+"start": 86.2,
+"end": 86.927,
+"part": 4
+},
+{
+"text": "e",
+"start": 86.964,
+"end": 87.0,
+"part": 4
+},
+{
+"text": "a",
+"start": 87.036,
+"end": 87.073,
+"part": 4
+},
+{
+"text": "entrega",
+"start": 87.145,
+"end": 87.509,
+"part": 4
+},
+{
+"text": "é",
+"start": 87.582,
+"end": 87.655,
+"part": 4
+},
+{
+"text": "na",
+"start": 87.691,
+"end": 87.727,
+"part": 4
+},
+{
+"text": "décima.",
+"start": 87.8,
+"end": 88.309,
+"part": 4
+},
+{
+"text": "Já",
+"start": 88.745,
+"end": 88.855,
+"part": 4
+},
+{
+"text": "o",
+"start": 88.891,
+"end": 88.927,
+"part": 4
+},
+{
+"text": "Projeto",
+"start": 88.964,
+"end": 89.255,
+"part": 4
+},
+{
+"text": "de",
+"start": 89.327,
+"end": 89.364,
+"part": 4
+},
+{
+"text": "Bloco",
+"start": 89.4,
+"end": 89.836,
+"part": 4
+},
+{
+"text": "é",
+"start": 89.945,
+"end": 90.055,
+"part": 4
+},
+{
+"text": "sempre",
+"start": 90.127,
+"end": 90.345,
+"part": 4
+},
+{
+"text": "apresentado",
+"start": 90.382,
+"end": 90.855,
+"part": 4
+},
+{
+"text": "ao",
+"start": 91.0,
+"end": 91.073,
+"part": 4
+},
+{
+"text": "vivo.",
+"start": 91.145,
+"end": 91.655,
+"part": 4
+},
+{
+"text": "Em",
+"start": 92.236,
+"end": 92.309,
+"part": 5
+},
+{
+"text": "dois",
+"start": 92.345,
+"end": 92.418,
+"part": 5
+},
+{
+"text": "mil",
+"start": 92.455,
+"end": 92.527,
+"part": 5
+},
+{
+"text": "e",
+"start": 92.564,
+"end": 92.6,
+"part": 5
+},
+{
+"text": "vinte",
+"start": 92.648,
+"end": 92.745,
+"part": 5
+},
+{
+"text": "e",
+"start": 92.782,
+"end": 92.818,
+"part": 5
+},
+{
+"text": "sete",
+"start": 92.927,
+"end": 93.109,
+"part": 5
+},
+{
+"text": "chega",
+"start": 93.182,
+"end": 93.4,
+"part": 5
+},
+{
+"text": "também",
+"start": 93.473,
+"end": 93.691,
+"part": 5
+},
+{
+"text": "a",
+"start": 93.739,
+"end": 93.788,
+"part": 5
+},
+{
+"text": "prova",
+"start": 93.836,
+"end": 93.982,
+"part": 5
+},
+{
+"text": "discursiva,",
+"start": 94.127,
+"end": 95.145,
+"part": 5
+},
+{
+"text": "primeiro",
+"start": 95.291,
+"end": 95.509,
+"part": 5
+},
+{
+"text": "na",
+"start": 95.545,
+"end": 95.582,
+"part": 5
+},
+{
+"text": "modalidade",
+"start": 95.655,
+"end": 96.091,
+"part": 5
+},
+{
+"text": "Live:",
+"start": 96.164,
+"end": 96.818,
+"part": 5
+},
+{
+"text": "uma",
+"start": 96.891,
+"end": 97.036,
+"part": 5
+},
+{
+"text": "prova",
+"start": 97.109,
+"end": 97.327,
+"part": 5
+},
+{
+"text": "individual",
+"start": 97.473,
+"end": 98.055,
+"part": 5
+},
+{
+"text": "para",
+"start": 98.127,
+"end": 98.345,
+"part": 5
+},
+{
+"text": "cada",
+"start": 98.418,
+"end": 98.564,
+"part": 5
+},
+{
+"text": "disciplina.",
+"start": 98.673,
+"end": 99.509,
+"part": 5
+},
+{
+"text": "As",
+"start": 99.618,
+"end": 99.727,
+"part": 5
+},
+{
+"text": "cinco",
+"start": 99.8,
+"end": 99.945,
+"part": 5
+},
+{
+"text": "provas",
+"start": 100.018,
+"end": 100.236,
+"part": 5
+},
+{
+"text": "do",
+"start": 100.309,
+"end": 100.345,
+"part": 5
+},
+{
+"text": "bloco",
+"start": 100.382,
+"end": 100.673,
+"part": 5
+},
+{
+"text": "são",
+"start": 100.745,
+"end": 100.891,
+"part": 5
+},
+{
+"text": "feitas",
+"start": 100.927,
+"end": 101.182,
+"part": 5
+},
+{
+"text": "em",
+"start": 101.218,
+"end": 101.255,
+"part": 5
+},
+{
+"text": "um",
+"start": 101.327,
+"end": 101.4,
+"part": 5
+},
+{
+"text": "único",
+"start": 101.473,
+"end": 101.691,
+"part": 5
+},
+{
+"text": "dia,",
+"start": 101.764,
+"end": 102.2,
+"part": 5
+},
+{
+"text": "perto",
+"start": 102.273,
+"end": 102.418,
+"part": 5
+},
+{
+"text": "do",
+"start": 102.491,
+"end": 102.564,
+"part": 5
+},
+{
+"text": "final",
+"start": 102.673,
+"end": 102.782,
+"part": 5
+},
+{
+"text": "do",
+"start": 102.855,
+"end": 102.891,
+"part": 5
+},
+{
+"text": "bloco.",
+"start": 102.927,
+"end": 103.727,
+"part": 5
+},
+{
+"text": "Sobre",
+"start": 103.764,
+"end": 103.945,
+"part": 5
+},
+{
+"text": "inteligência",
+"start": 104.018,
+"end": 104.6,
+"part": 5
+},
+{
+"text": "artificial:",
+"start": 104.673,
+"end": 105.691,
+"part": 5
+},
+{
+"text": "cada",
+"start": 105.727,
+"end": 105.909,
+"part": 5
+},
+{
+"text": "enunciado",
+"start": 105.945,
+"end": 106.418,
+"part": 5
+},
+{
+"text": "traz",
+"start": 106.491,
+"end": 106.636,
+"part": 5
+},
+{
+"text": "um",
+"start": 106.709,
+"end": 106.745,
+"part": 5
+},
+{
+"text": "sinal.",
+"start": 106.782,
+"end": 107.509,
+"part": 5
+},
+{
+"text": "Verde,",
+"start": 107.618,
+"end": 108.164,
+"part": 5
+},
+{
+"text": "pode",
+"start": 108.2,
+"end": 108.309,
+"part": 5
+},
+{
+"text": "usar",
+"start": 108.382,
+"end": 108.6,
+"part": 5
+},
+{
+"text": "I",
+"start": 108.745,
+"end": 108.818,
+"part": 5
+},
+{
+"text": "A",
+"start": 108.891,
+"end": 108.964,
+"part": 5
+},
+{
+"text": "no",
+"start": 109.0,
+"end": 109.036,
+"part": 5
+},
+{
+"text": "trabalho,",
+"start": 109.109,
+"end": 109.618,
+"part": 5
+},
+{
+"text": "pois",
+"start": 109.655,
+"end": 109.764,
+"part": 5
+},
+{
+"text": "dominá-la",
+"start": 109.836,
+"end": 110.345,
+"part": 5
+},
+{
+"text": "é",
+"start": 110.382,
+"end": 110.418,
+"part": 5
+},
+{
+"text": "um",
+"start": 110.455,
+"end": 110.491,
+"part": 5
+},
+{
+"text": "dos",
+"start": 110.564,
+"end": 110.636,
+"part": 5
+},
+{
+"text": "objetivos",
+"start": 110.818,
+"end": 111.145,
+"part": 5
+},
+{
+"text": "pedagógicos",
+"start": 111.218,
+"end": 111.873,
+"part": 5
+},
+{
+"text": "propostos",
+"start": 111.982,
+"end": 112.382,
+"part": 5
+},
+{
+"text": "naquele",
+"start": 112.455,
+"end": 112.673,
+"part": 5
+},
+{
+"text": "momento.",
+"start": 112.855,
+"end": 113.182,
+"part": 5
+},
+{
+"text": "Amarelo,",
+"start": 113.545,
+"end": 114.345,
+"part": 5
+},
+{
+"text": "só",
+"start": 114.418,
+"end": 114.564,
+"part": 5
+},
+{
+"text": "de",
+"start": 114.636,
+"end": 114.709,
+"part": 5
+},
+{
+"text": "formas",
+"start": 114.818,
+"end": 115.0,
+"part": 5
+},
+{
+"text": "específicas",
+"start": 115.073,
+"end": 115.8,
+"part": 5
+},
+{
+"text": "que",
+"start": 115.836,
+"end": 115.873,
+"part": 5
+},
+{
+"text": "o",
+"start": 115.897,
+"end": 115.921,
+"part": 5
+},
+{
+"text": "enunciado",
+"start": 115.945,
+"end": 116.382,
+"part": 5
+},
+{
+"text": "permitir.",
+"start": 116.564,
+"end": 116.964,
+"part": 5
+},
+{
+"text": "Vermelho,",
+"start": 117.255,
+"end": 117.764,
+"part": 5
+},
+{
+"text": "não",
+"start": 118.055,
+"end": 118.127,
+"part": 5
+},
+{
+"text": "pode.",
+"start": 118.273,
+"end": 118.636,
+"part": 5
+},
+{
+"text": "Cada",
+"start": 119.364,
+"end": 119.534,
+"part": 6
+},
+{
+"text": "competência",
+"start": 119.582,
+"end": 120.178,
+"part": 6
+},
+{
+"text": "é",
+"start": 120.236,
+"end": 120.382,
+"part": 6
+},
+{
+"text": "avaliada",
+"start": 120.455,
+"end": 120.964,
+"part": 6
+},
+{
+"text": "como",
+"start": 121.036,
+"end": 121.182,
+"part": 6
+},
+{
+"text": "demonstrada",
+"start": 121.255,
+"end": 121.982,
+"part": 6
+},
+{
+"text": "ou",
+"start": 122.127,
+"end": 122.2,
+"part": 6
+},
+{
+"text": "não",
+"start": 122.345,
+"end": 122.491,
+"part": 6
+},
+{
+"text": "demonstrada.",
+"start": 122.564,
+"end": 123.218,
+"part": 6
+},
+{
+"text": "Para",
+"start": 123.582,
+"end": 123.727,
+"part": 6
+},
+{
+"text": "obter",
+"start": 123.8,
+"end": 124.018,
+"part": 6
+},
+{
+"text": "a",
+"start": 124.043,
+"end": 124.066,
+"part": 6
+},
+{
+"text": "aprovação,",
+"start": 124.091,
+"end": 124.891,
+"part": 6
+},
+{
+"text": "você",
+"start": 124.927,
+"end": 125.109,
+"part": 6
+},
+{
+"text": "precisa",
+"start": 125.182,
+"end": 125.4,
+"part": 6
+},
+{
+"text": "demonstrar",
+"start": 125.473,
+"end": 125.909,
+"part": 6
+},
+{
+"text": "todas",
+"start": 126.127,
+"end": 126.491,
+"part": 6
+},
+{
+"text": "as",
+"start": 126.527,
+"end": 126.564,
+"part": 6
+},
+{
+"text": "competências",
+"start": 126.636,
+"end": 127.145,
+"part": 6
+},
+{
+"text": "da",
+"start": 127.218,
+"end": 127.291,
+"part": 6
+},
+{
+"text": "disciplina,",
+"start": 127.364,
+"end": 128.091,
+"part": 6
+},
+{
+"text": "com",
+"start": 128.164,
+"end": 128.236,
+"part": 6
+},
+{
+"text": "conceito",
+"start": 128.345,
+"end": 128.745,
+"part": 6
+},
+{
+"text": "dê,",
+"start": 128.818,
+"end": 129.182,
+"part": 6
+},
+{
+"text": "de",
+"start": 129.218,
+"end": 129.255,
+"part": 6
+},
+{
+"text": "Demonstrou,",
+"start": 129.327,
+"end": 130.127,
+"part": 6
+},
+{
+"text": "em",
+"start": 130.164,
+"end": 130.2,
+"part": 6
+},
+{
+"text": "cada",
+"start": 130.345,
+"end": 130.564,
+"part": 6
+},
+{
+"text": "uma.",
+"start": 130.636,
+"end": 130.927,
+"part": 6
+},
+{
+"text": "Alguns",
+"start": 131.364,
+"end": 131.582,
+"part": 6
+},
+{
+"text": "alunos",
+"start": 131.655,
+"end": 132.091,
+"part": 6
+},
+{
+"text": "desenvolvem",
+"start": 132.164,
+"end": 132.6,
+"part": 6
+},
+{
+"text": "competências",
+"start": 132.745,
+"end": 133.182,
+"part": 6
+},
+{
+"text": "particularmente",
+"start": 133.327,
+"end": 133.982,
+"part": 6
+},
+{
+"text": "fortes",
+"start": 134.127,
+"end": 134.564,
+"part": 6
+},
+{
+"text": "e",
+"start": 134.782,
+"end": 134.818,
+"part": 6
+},
+{
+"text": "as",
+"start": 134.855,
+"end": 134.927,
+"part": 6
+},
+{
+"text": "demonstram",
+"start": 134.964,
+"end": 135.436,
+"part": 6
+},
+{
+"text": "com",
+"start": 135.509,
+"end": 135.582,
+"part": 6
+},
+{
+"text": "excelência:",
+"start": 135.764,
+"end": 136.6,
+"part": 6
+},
+{
+"text": "eles",
+"start": 136.673,
+"end": 136.818,
+"part": 6
+},
+{
+"text": "podem",
+"start": 136.891,
+"end": 137.109,
+"part": 6
+},
+{
+"text": "chegar",
+"start": 137.145,
+"end": 137.327,
+"part": 6
+},
+{
+"text": "aos",
+"start": 137.4,
+"end": 137.473,
+"part": 6
+},
+{
+"text": "conceitos",
+"start": 137.545,
+"end": 138.055,
+"part": 6
+},
+{
+"text": "D",
+"start": 138.127,
+"end": 138.273,
+"part": 6
+},
+{
+"text": "L,",
+"start": 138.418,
+"end": 138.709,
+"part": 6
+},
+{
+"text": "Demonstrou",
+"start": 138.927,
+"end": 139.364,
+"part": 6
+},
+{
+"text": "com",
+"start": 139.436,
+"end": 139.509,
+"part": 6
+},
+{
+"text": "Louvor,",
+"start": 139.582,
+"end": 140.236,
+"part": 6
+},
+{
+"text": "e",
+"start": 140.273,
+"end": 140.309,
+"part": 6
+},
+{
+"text": "D",
+"start": 140.455,
+"end": 140.6,
+"part": 6
+},
+{
+"text": "M",
+"start": 140.745,
+"end": 140.891,
+"part": 6
+},
+{
+"text": "L,",
+"start": 140.964,
+"end": 141.255,
+"part": 6
+},
+{
+"text": "Demonstrou",
+"start": 141.4,
+"end": 141.909,
+"part": 6
+},
+{
+"text": "com",
+"start": 141.982,
+"end": 142.055,
+"part": 6
+},
+{
+"text": "Máximo",
+"start": 142.2,
+"end": 142.564,
+"part": 6
+},
+{
+"text": "Louvor.",
+"start": 142.673,
+"end": 143.182,
+"part": 6
+},
+{
+"text": "E",
+"start": 143.364,
+"end": 143.436,
+"part": 6
+},
+{
+"text": "prazo",
+"start": 143.509,
+"end": 143.8,
+"part": 6
+},
+{
+"text": "conta:",
+"start": 143.873,
+"end": 144.6,
+"part": 6
+},
+{
+"text": "um",
+"start": 144.673,
+"end": 144.745,
+"part": 6
+},
+{
+"text": "tepê",
+"start": 144.855,
+"end": 145.109,
+"part": 6
+},
+{
+"text": "entregue",
+"start": 145.182,
+"end": 145.473,
+"part": 6
+},
+{
+"text": "com",
+"start": 145.545,
+"end": 145.618,
+"part": 6
+},
+{
+"text": "atraso",
+"start": 145.691,
+"end": 146.127,
+"part": 6
+},
+{
+"text": "limita",
+"start": 146.2,
+"end": 146.612,
+"part": 6
+},
+{
+"text": "os",
+"start": 146.661,
+"end": 146.709,
+"part": 6
+},
+{
+"text": "conceitos",
+"start": 146.818,
+"end": 147.145,
+"part": 6
+},
+{
+"text": "que",
+"start": 147.218,
+"end": 147.291,
+"part": 6
+},
+{
+"text": "você",
+"start": 147.364,
+"end": 147.509,
+"part": 6
+},
+{
+"text": "pode",
+"start": 147.582,
+"end": 147.655,
+"part": 6
+},
+{
+"text": "alcançar",
+"start": 147.727,
+"end": 148.164,
+"part": 6
+},
+{
+"text": "em",
+"start": 148.236,
+"end": 148.309,
+"part": 6
+},
+{
+"text": "cada",
+"start": 148.382,
+"end": 148.527,
+"part": 6
+},
+{
+"text": "competência",
+"start": 148.6,
+"end": 149.109,
+"part": 6
+},
+{
+"text": "da",
+"start": 149.145,
+"end": 149.182,
+"part": 6
+},
+{
+"text": "disciplina.",
+"start": 149.255,
+"end": 149.982,
+"part": 6
+},
+{
+"text": "A",
+"start": 150.2,
+"end": 150.273,
+"part": 6
+},
+{
+"text": "prova",
+"start": 150.345,
+"end": 150.491,
+"part": 6
+},
+{
+"text": "discursiva",
+"start": 150.564,
+"end": 151.145,
+"part": 6
+},
+{
+"text": "também",
+"start": 151.218,
+"end": 151.582,
+"part": 6
+},
+{
+"text": "pode",
+"start": 151.655,
+"end": 151.8,
+"part": 6
+},
+{
+"text": "limitar",
+"start": 151.873,
+"end": 152.236,
+"part": 6
+},
+{
+"text": "os",
+"start": 152.273,
+"end": 152.309,
+"part": 6
+},
+{
+"text": "conceitos",
+"start": 152.382,
+"end": 152.745,
+"part": 6
+},
+{
+"text": "das",
+"start": 152.818,
+"end": 152.891,
+"part": 6
+},
+{
+"text": "competências.",
+"start": 152.964,
+"end": 153.764,
+"part": 6
+},
+{
+"text": "Presença",
+"start": 154.309,
+"end": 154.745,
+"part": 7
+},
+{
+"text": "nas",
+"start": 154.818,
+"end": 154.964,
+"part": 7
+},
+{
+"text": "aulas",
+"start": 155.036,
+"end": 155.327,
+"part": 7
+},
+{
+"text": "também",
+"start": 155.4,
+"end": 155.764,
+"part": 7
+},
+{
+"text": "é",
+"start": 155.8,
+"end": 155.836,
+"part": 7
+},
+{
+"text": "uma",
+"start": 155.873,
+"end": 155.909,
+"part": 7
+},
+{
+"text": "exigência",
+"start": 155.982,
+"end": 156.418,
+"part": 7
+},
+{
+"text": "para",
+"start": 156.491,
+"end": 156.564,
+"part": 7
+},
+{
+"text": "aprovação.",
+"start": 156.636,
+"end": 157.218,
+"part": 7
+},
+{
+"text": "Você",
+"start": 157.582,
+"end": 157.8,
+"part": 7
+},
+{
+"text": "precisa",
+"start": 157.909,
+"end": 158.164,
+"part": 7
+},
+{
+"text": "de",
+"start": 158.236,
+"end": 158.309,
+"part": 7
+},
+{
+"text": "setenta",
+"start": 158.455,
+"end": 158.818,
+"part": 7
+},
+{
+"text": "e",
+"start": 158.891,
+"end": 158.964,
+"part": 7
+},
+{
+"text": "cinco",
+"start": 159.0,
+"end": 159.109,
+"part": 7
+},
+{
+"text": "por",
+"start": 159.255,
+"end": 159.327,
+"part": 7
+},
+{
+"text": "cento",
+"start": 159.4,
+"end": 159.582,
+"part": 7
+},
+{
+"text": "de",
+"start": 159.618,
+"end": 159.691,
+"part": 7
+},
+{
+"text": "presença",
+"start": 159.764,
+"end": 160.127,
+"part": 7
+},
+{
+"text": "em",
+"start": 160.2,
+"end": 160.345,
+"part": 7
+},
+{
+"text": "cada",
+"start": 160.382,
+"end": 160.564,
+"part": 7
+},
+{
+"text": "disciplina,",
+"start": 160.636,
+"end": 161.436,
+"part": 7
+},
+{
+"text": "e",
+"start": 161.473,
+"end": 161.509,
+"part": 7
+},
+{
+"text": "esse",
+"start": 161.582,
+"end": 161.655,
+"part": 7
+},
+{
+"text": "limite",
+"start": 161.727,
+"end": 162.164,
+"part": 7
+},
+{
+"text": "já",
+"start": 162.309,
+"end": 162.455,
+"part": 7
+},
+{
+"text": "inclui",
+"start": 162.564,
+"end": 162.745,
+"part": 7
+},
+{
+"text": "as",
+"start": 162.818,
+"end": 162.891,
+"part": 7
+},
+{
+"text": "faltas",
+"start": 162.964,
+"end": 163.255,
+"part": 7
+},
+{
+"text": "por",
+"start": 163.327,
+"end": 163.4,
+"part": 7
+},
+{
+"text": "motivo",
+"start": 163.473,
+"end": 163.691,
+"part": 7
+},
+{
+"text": "de",
+"start": 163.727,
+"end": 163.764,
+"part": 7
+},
+{
+"text": "saúde.",
+"start": 163.836,
+"end": 164.527,
+"part": 7
+},
+{
+"text": "Na",
+"start": 164.782,
+"end": 164.855,
+"part": 7
+},
+{
+"text": "modalidade",
+"start": 164.964,
+"end": 165.291,
+"part": 7
+},
+{
+"text": "presencial,",
+"start": 165.364,
+"end": 166.164,
+"part": 7
+},
+{
+"text": "a",
+"start": 166.2,
+"end": 166.236,
+"part": 7
+},
+{
+"text": "presença",
+"start": 166.309,
+"end": 166.673,
+"part": 7
+},
+{
+"text": "só",
+"start": 166.745,
+"end": 166.891,
+"part": 7
+},
+{
+"text": "conta",
+"start": 166.964,
+"end": 167.327,
+"part": 7
+},
+{
+"text": "se",
+"start": 167.364,
+"end": 167.4,
+"part": 7
+},
+{
+"text": "você",
+"start": 167.473,
+"end": 167.618,
+"part": 7
+},
+{
+"text": "estiver",
+"start": 167.691,
+"end": 167.982,
+"part": 7
+},
+{
+"text": "em",
+"start": 168.127,
+"end": 168.273,
+"part": 7
+},
+{
+"text": "pessoa",
+"start": 168.345,
+"end": 168.782,
+"part": 7
+},
+{
+"text": "na",
+"start": 168.855,
+"end": 168.927,
+"part": 7
+},
+{
+"text": "sala",
+"start": 169.0,
+"end": 169.145,
+"part": 7
+},
+{
+"text": "de",
+"start": 169.218,
+"end": 169.291,
+"part": 7
+},
+{
+"text": "aula",
+"start": 169.364,
+"end": 169.473,
+"part": 7
+},
+{
+"text": "da",
+"start": 169.509,
+"end": 169.545,
+"part": 7
+},
+{
+"text": "faculdade.",
+"start": 169.582,
+"end": 170.236,
+"part": 7
+},
+{
+"text": "Na",
+"start": 170.6,
+"end": 170.673,
+"part": 7
+},
+{
+"text": "Live,",
+"start": 170.745,
+"end": 171.327,
+"part": 7
+},
+{
+"text": "conta",
+"start": 171.436,
+"end": 171.582,
+"part": 7
+},
+{
+"text": "se",
+"start": 171.618,
+"end": 171.691,
+"part": 7
+},
+{
+"text": "assistir",
+"start": 171.836,
+"end": 172.2,
+"part": 7
+},
+{
+"text": "ao",
+"start": 172.273,
+"end": 172.345,
+"part": 7
+},
+{
+"text": "vivo,",
+"start": 172.418,
+"end": 173.0,
+"part": 7
+},
+{
+"text": "e",
+"start": 173.036,
+"end": 173.073,
+"part": 7
+},
+{
+"text": "a",
+"start": 173.109,
+"end": 173.145,
+"part": 7
+},
+{
+"text": "câmera",
+"start": 173.218,
+"end": 173.436,
+"part": 7
+},
+{
+"text": "ligada",
+"start": 173.545,
+"end": 173.873,
+"part": 7
+},
+{
+"text": "pode",
+"start": 174.018,
+"end": 174.236,
+"part": 7
+},
+{
+"text": "ser",
+"start": 174.309,
+"end": 174.455,
+"part": 7
+},
+{
+"text": "uma",
+"start": 174.527,
+"end": 174.6,
+"part": 7
+},
+{
+"text": "exigência.",
+"start": 174.636,
+"end": 175.327,
+"part": 7
+},
+{
+"text": "No",
+"start": 175.982,
+"end": 176.055,
+"part": 8
+},
+{
+"text": "dia",
+"start": 176.127,
+"end": 176.2,
+"part": 8
+},
+{
+"text": "a",
+"start": 176.273,
+"end": 176.345,
+"part": 8
+},
+{
+"text": "dia,",
+"start": 176.418,
+"end": 176.673,
+"part": 8
+},
+{
+"text": "você",
+"start": 176.709,
+"end": 176.855,
+"part": 8
+},
+{
+"text": "vai",
+"start": 176.891,
+"end": 177.0,
+"part": 8
+},
+{
+"text": "usar",
+"start": 177.036,
+"end": 177.218,
+"part": 8
+},
+{
+"text": "alguns",
+"start": 177.327,
+"end": 177.582,
+"part": 8
+},
+{
+"text": "sistemas,",
+"start": 177.691,
+"end": 178.309,
+"part": 8
+},
+{
+"text": "todos",
+"start": 178.382,
+"end": 178.673,
+"part": 8
+},
+{
+"text": "conectados",
+"start": 178.745,
+"end": 179.182,
+"part": 8
+},
+{
+"text": "à",
+"start": 179.218,
+"end": 179.255,
+"part": 8
+},
+{
+"text": "sua",
+"start": 179.327,
+"end": 179.473,
+"part": 8
+},
+{
+"text": "conta",
+"start": 179.545,
+"end": 179.691,
+"part": 8
+},
+{
+"text": "de",
+"start": 179.727,
+"end": 179.764,
+"part": 8
+},
+{
+"text": "aluno.",
+"start": 179.836,
+"end": 180.2,
+"part": 8
+},
+{
+"text": "O",
+"start": 180.491,
+"end": 180.564,
+"part": 8
+},
+{
+"text": "principal",
+"start": 180.636,
+"end": 181.145,
+"part": 8
+},
+{
+"text": "é",
+"start": 181.218,
+"end": 181.291,
+"part": 8
+},
+{
+"text": "o",
+"start": 181.327,
+"end": 181.364,
+"part": 8
+},
+{
+"text": "Infnet",
+"start": 181.436,
+"end": 181.873,
+"part": 8
+},
+{
+"text": "Online,",
+"start": 181.909,
+"end": 182.455,
+"part": 8
+},
+{
+"text": "para",
+"start": 182.527,
+"end": 182.6,
+"part": 8
+},
+{
+"text": "se",
+"start": 182.673,
+"end": 182.745,
+"part": 8
+},
+{
+"text": "comunicar",
+"start": 182.818,
+"end": 183.327,
+"part": 8
+},
+{
+"text": "e",
+"start": 183.473,
+"end": 183.509,
+"part": 8
+},
+{
+"text": "estudar",
+"start": 183.545,
+"end": 183.909,
+"part": 8
+},
+{
+"text": "as",
+"start": 183.982,
+"end": 184.055,
+"part": 8
+},
+{
+"text": "Trilhas",
+"start": 184.127,
+"end": 184.345,
+"part": 8
+},
+{
+"text": "de",
+"start": 184.418,
+"end": 184.443,
+"part": 8
+},
+{
+"text": "Aprendizagem.",
+"start": 184.466,
+"end": 185.145,
+"part": 8
+},
+{
+"text": "O",
+"start": 185.582,
+"end": 185.655,
+"part": 8
+},
+{
+"text": "Moodle,",
+"start": 185.727,
+"end": 186.236,
+"part": 8
+},
+{
+"text": "você",
+"start": 186.273,
+"end": 186.455,
+"part": 8
+},
+{
+"text": "usa",
+"start": 186.527,
+"end": 186.673,
+"part": 8
+},
+{
+"text": "para",
+"start": 186.745,
+"end": 186.818,
+"part": 8
+},
+{
+"text": "entregar",
+"start": 186.891,
+"end": 187.255,
+"part": 8
+},
+{
+"text": "os",
+"start": 187.291,
+"end": 187.327,
+"part": 8
+},
+{
+"text": "trabalhos.",
+"start": 187.4,
+"end": 187.982,
+"part": 8
+},
+{
+"text": "Tem",
+"start": 188.345,
+"end": 188.491,
+"part": 8
+},
+{
+"text": "também",
+"start": 188.564,
+"end": 188.782,
+"part": 8
+},
+{
+"text": "o",
+"start": 188.806,
+"end": 188.83,
+"part": 8
+},
+{
+"text": "sistema",
+"start": 188.855,
+"end": 189.218,
+"part": 8
+},
+{
+"text": "das",
+"start": 189.291,
+"end": 189.364,
+"part": 8
+},
+{
+"text": "aulas",
+"start": 189.436,
+"end": 189.582,
+"part": 8
+},
+{
+"text": "ao",
+"start": 189.655,
+"end": 189.727,
+"part": 8
+},
+{
+"text": "vivo",
+"start": 189.8,
+"end": 190.091,
+"part": 8
+},
+{
+"text": "e",
+"start": 190.309,
+"end": 190.382,
+"part": 8
+},
+{
+"text": "a",
+"start": 190.406,
+"end": 190.43,
+"part": 8
+},
+{
+"text": "biblioteca",
+"start": 190.455,
+"end": 190.964,
+"part": 8
+},
+{
+"text": "online",
+"start": 191.036,
+"end": 191.327,
+"part": 8
+},
+{
+"text": "O'Reilly.",
+"start": 191.473,
+"end": 192.2,
+"part": 8
+},
+{
+"text": "Precisou",
+"start": 192.418,
+"end": 192.782,
+"part": 8
+},
+{
+"text": "de",
+"start": 192.818,
+"end": 192.855,
+"part": 8
+},
+{
+"text": "ajuda?",
+"start": 192.927,
+"end": 193.473,
+"part": 8
+},
+{
+"text": "Fale",
+"start": 193.655,
+"end": 193.8,
+"part": 8
+},
+{
+"text": "com",
+"start": 193.873,
+"end": 193.945,
+"part": 8
+},
+{
+"text": "o",
+"start": 193.97,
+"end": 193.994,
+"part": 8
+},
+{
+"text": "seu",
+"start": 194.018,
+"end": 194.127,
+"part": 8
+},
+{
+"text": "professor",
+"start": 194.164,
+"end": 194.6,
+"part": 8
+},
+{
+"text": "e",
+"start": 194.745,
+"end": 194.782,
+"part": 8
+},
+{
+"text": "com",
+"start": 194.818,
+"end": 194.891,
+"part": 8
+},
+{
+"text": "os",
+"start": 194.927,
+"end": 194.964,
+"part": 8
+},
+{
+"text": "monitores.",
+"start": 195.036,
+"end": 195.691,
+"part": 8
+},
+{
+"text": "Pelo",
+"start": 196.055,
+"end": 196.2,
+"part": 8
+},
+{
+"text": "Infnet",
+"start": 196.309,
+"end": 196.636,
+"part": 8
+},
+{
+"text": "Online,",
+"start": 196.673,
+"end": 197.218,
+"part": 8
+},
+{
+"text": "você",
+"start": 197.255,
+"end": 197.364,
+"part": 8
+},
+{
+"text": "também",
+"start": 197.436,
+"end": 197.655,
+"part": 8
+},
+{
+"text": "conversa",
+"start": 197.727,
+"end": 198.055,
+"part": 8
+},
+{
+"text": "por",
+"start": 198.091,
+"end": 198.236,
+"part": 8
+},
+{
+"text": "chat",
+"start": 198.309,
+"end": 198.6,
+"part": 8
+},
+{
+"text": "com",
+"start": 198.636,
+"end": 198.673,
+"part": 8
+},
+{
+"text": "a",
+"start": 198.709,
+"end": 198.745,
+"part": 8
+},
+{
+"text": "Secretaria,",
+"start": 198.818,
+"end": 199.473,
+"part": 8
+},
+{
+"text": "Central",
+"start": 199.691,
+"end": 200.055,
+"part": 8
+},
+{
+"text": "de",
+"start": 200.091,
+"end": 200.127,
+"part": 8
+},
+{
+"text": "Carreiras",
+"start": 200.2,
+"end": 200.636,
+"part": 8
+},
+{
+"text": "e",
+"start": 200.855,
+"end": 200.891,
+"part": 8
+},
+{
+"text": "Central",
+"start": 200.927,
+"end": 201.218,
+"part": 8
+},
+{
+"text": "de",
+"start": 201.291,
+"end": 201.364,
+"part": 8
+},
+{
+"text": "Coaching",
+"start": 201.436,
+"end": 201.8,
+"part": 8
+},
+{
+"text": "e",
+"start": 201.873,
+"end": 201.909,
+"part": 8
+},
+{
+"text": "Psicopedagogia.",
+"start": 201.945,
+"end": 203.073,
+"part": 8
+},
+{
+"text": "Aqui,",
+"start": 203.255,
+"end": 203.836,
+"part": 8
+},
+{
+"text": "ninguém",
+"start": 203.982,
+"end": 204.273,
+"part": 8
+},
+{
+"text": "fica",
+"start": 204.345,
+"end": 204.491,
+"part": 8
+},
+{
+"text": "sozinho.",
+"start": 204.564,
+"end": 205.218,
+"part": 8
+},
+{
+"text": "O",
+"start": 205.873,
+"end": 206.018,
+"part": 9
+},
+{
+"text": "curso",
+"start": 206.127,
+"end": 206.236,
+"part": 9
+},
+{
+"text": "é",
+"start": 206.273,
+"end": 206.309,
+"part": 9
+},
+{
+"text": "difícil,",
+"start": 206.455,
+"end": 207.109,
+"part": 9
+},
+{
+"text": "e",
+"start": 207.145,
+"end": 207.182,
+"part": 9
+},
+{
+"text": "você",
+"start": 207.218,
+"end": 207.4,
+"part": 9
+},
+{
+"text": "precisa",
+"start": 207.473,
+"end": 207.909,
+"part": 9
+},
+{
+"text": "se",
+"start": 207.982,
+"end": 208.055,
+"part": 9
+},
+{
+"text": "dedicar:",
+"start": 208.127,
+"end": 208.927,
+"part": 9
+},
+{
+"text": "são",
+"start": 209.0,
+"end": 209.073,
+"part": 9
+},
+{
+"text": "cerca",
+"start": 209.145,
+"end": 209.364,
+"part": 9
+},
+{
+"text": "de",
+"start": 209.473,
+"end": 209.582,
+"part": 9
+},
+{
+"text": "doze",
+"start": 209.691,
+"end": 209.945,
+"part": 9
+},
+{
+"text": "horas",
+"start": 210.018,
+"end": 210.236,
+"part": 9
+},
+{
+"text": "de",
+"start": 210.309,
+"end": 210.345,
+"part": 9
+},
+{
+"text": "estudo",
+"start": 210.382,
+"end": 210.673,
+"part": 9
+},
+{
+"text": "semanal,",
+"start": 210.745,
+"end": 211.327,
+"part": 9
+},
+{
+"text": "além",
+"start": 211.4,
+"end": 211.618,
+"part": 9
+},
+{
+"text": "das",
+"start": 211.727,
+"end": 211.836,
+"part": 9
+},
+{
+"text": "aulas.",
+"start": 211.909,
+"end": 212.491,
+"part": 9
+},
+{
+"text": "Mas",
+"start": 212.709,
+"end": 212.782,
+"part": 9
+},
+{
+"text": "estamos",
+"start": 212.855,
+"end": 213.145,
+"part": 9
+},
+{
+"text": "aqui",
+"start": 213.218,
+"end": 213.364,
+"part": 9
+},
+{
+"text": "para",
+"start": 213.436,
+"end": 213.582,
+"part": 9
+},
+{
+"text": "te",
+"start": 213.618,
+"end": 213.655,
+"part": 9
+},
+{
+"text": "apoiar",
+"start": 213.727,
+"end": 214.091,
+"part": 9
+},
+{
+"text": "nessa",
+"start": 214.164,
+"end": 214.309,
+"part": 9
+},
+{
+"text": "jornada,",
+"start": 214.382,
+"end": 215.036,
+"part": 9
+},
+{
+"text": "e",
+"start": 215.073,
+"end": 215.109,
+"part": 9
+},
+{
+"text": "ver",
+"start": 215.182,
+"end": 215.327,
+"part": 9
+},
+{
+"text": "você",
+"start": 215.364,
+"end": 215.545,
+"part": 9
+},
+{
+"text": "se",
+"start": 215.618,
+"end": 215.691,
+"part": 9
+},
+{
+"text": "formar",
+"start": 215.836,
+"end": 216.127,
+"part": 9
+},
+{
+"text": "em",
+"start": 216.164,
+"end": 216.2,
+"part": 9
+},
+{
+"text": "alguns",
+"start": 216.273,
+"end": 216.491,
+"part": 9
+},
+{
+"text": "anos.",
+"start": 216.564,
+"end": 217.073,
+"part": 9
+},
+{
+"text": "Para",
+"start": 217.709,
+"end": 217.782,
+"part": 10
+},
+{
+"text": "começar",
+"start": 217.855,
+"end": 218.218,
+"part": 10
+},
+{
+"text": "bem,",
+"start": 218.291,
+"end": 218.727,
+"part": 10
+},
+{
+"text": "três",
+"start": 218.764,
+"end": 219.018,
+"part": 10
+},
+{
+"text": "passos.",
+"start": 219.164,
+"end": 219.527,
+"part": 10
+},
+{
+"text": "Um:",
+"start": 219.891,
+"end": 220.473,
+"part": 10
+},
+{
+"text": "acesse",
+"start": 220.655,
+"end": 220.909,
+"part": 10
+},
+{
+"text": "o",
+"start": 220.945,
+"end": 220.982,
+"part": 10
+},
+{
+"text": "Infnet",
+"start": 221.055,
+"end": 221.345,
+"part": 10
+},
+{
+"text": "Online",
+"start": 221.418,
+"end": 221.709,
+"part": 10
+},
+{
+"text": "e",
+"start": 221.855,
+"end": 221.927,
+"part": 10
+},
+{
+"text": "também",
+"start": 221.975,
+"end": 222.145,
+"part": 10
+},
+{
+"text": "leia",
+"start": 222.218,
+"end": 222.436,
+"part": 10
+},
+{
+"text": "os",
+"start": 222.509,
+"end": 222.582,
+"part": 10
+},
+{
+"text": "e-mails",
+"start": 222.618,
+"end": 222.873,
+"part": 10
+},
+{
+"text": "de",
+"start": 222.909,
+"end": 222.945,
+"part": 10
+},
+{
+"text": "sua",
+"start": 223.018,
+"end": 223.164,
+"part": 10
+},
+{
+"text": "conta",
+"start": 223.236,
+"end": 223.382,
+"part": 10
+},
+{
+"text": "de",
+"start": 223.455,
+"end": 223.491,
+"part": 10
+},
+{
+"text": "aluno",
+"start": 223.527,
+"end": 223.891,
+"part": 10
+},
+{
+"text": "todos",
+"start": 224.036,
+"end": 224.182,
+"part": 10
+},
+{
+"text": "os",
+"start": 224.255,
+"end": 224.327,
+"part": 10
+},
+{
+"text": "dias.",
+"start": 224.4,
+"end": 225.2,
+"part": 10
+},
+{
+"text": "Dois:",
+"start": 225.273,
+"end": 225.927,
+"part": 10
+},
+{
+"text": "reserve",
+"start": 226.0,
+"end": 226.364,
+"part": 10
+},
+{
+"text": "na",
+"start": 226.4,
+"end": 226.436,
+"part": 10
+},
+{
+"text": "agenda",
+"start": 226.618,
+"end": 226.8,
+"part": 10
+},
+{
+"text": "as",
+"start": 226.836,
+"end": 226.873,
+"part": 10
+},
+{
+"text": "suas",
+"start": 226.909,
+"end": 227.091,
+"part": 10
+},
+{
+"text": "horas",
+"start": 227.164,
+"end": 227.382,
+"part": 10
+},
+{
+"text": "de",
+"start": 227.418,
+"end": 227.455,
+"part": 10
+},
+{
+"text": "estudo",
+"start": 227.527,
+"end": 227.818,
+"part": 10
+},
+{
+"text": "da",
+"start": 227.855,
+"end": 227.891,
+"part": 10
+},
+{
+"text": "semana.",
+"start": 227.964,
+"end": 228.836,
+"part": 10
+},
+{
+"text": "Três:",
+"start": 228.909,
+"end": 229.564,
+"part": 10
+},
+{
+"text": "leia",
+"start": 229.636,
+"end": 229.855,
+"part": 10
+},
+{
+"text": "o",
+"start": 229.891,
+"end": 229.927,
+"part": 10
+},
+{
+"text": "Manual",
+"start": 230.073,
+"end": 230.218,
+"part": 10
+},
+{
+"text": "do",
+"start": 230.291,
+"end": 230.327,
+"part": 10
+},
+{
+"text": "Aluno",
+"start": 230.364,
+"end": 230.655,
+"part": 10
+},
+{
+"text": "para",
+"start": 230.727,
+"end": 230.8,
+"part": 10
+},
+{
+"text": "conhecer",
+"start": 230.873,
+"end": 231.164,
+"part": 10
+},
+{
+"text": "as",
+"start": 231.236,
+"end": 231.309,
+"part": 10
+},
+{
+"text": "regras",
+"start": 231.382,
+"end": 231.818,
+"part": 10
+},
+{
+"text": "e",
+"start": 231.855,
+"end": 231.891,
+"part": 10
+},
+{
+"text": "não",
+"start": 232.036,
+"end": 232.109,
+"part": 10
+},
+{
+"text": "atrasar",
+"start": 232.182,
+"end": 232.545,
+"part": 10
+},
+{
+"text": "sua",
+"start": 232.618,
+"end": 232.764,
+"part": 10
+},
+{
+"text": "formatura",
+"start": 232.909,
+"end": 233.2,
+"part": 10
+},
+{
+"text": "por",
+"start": 233.273,
+"end": 233.345,
+"part": 10
+},
+{
+"text": "algum",
+"start": 233.382,
+"end": 233.564,
+"part": 10
+},
+{
+"text": "detalhe.",
+"start": 233.673,
+"end": 234.364,
+"part": 10
+},
+{
+"text": "O",
+"start": 234.4,
+"end": 234.436,
+"part": 10
+},
+{
+"text": "resto,",
+"start": 234.509,
+"end": 235.055,
+"part": 10
+},
+{
+"text": "a",
+"start": 235.091,
+"end": 235.127,
+"part": 10
+},
+{
+"text": "gente",
+"start": 235.164,
+"end": 235.309,
+"part": 10
+},
+{
+"text": "constrói",
+"start": 235.382,
+"end": 235.745,
+"part": 10
+},
+{
+"text": "junto.",
+"start": 235.782,
+"end": 236.473,
+"part": 10
+},
+{
+"text": "Bons",
+"start": 236.545,
+"end": 236.691,
+"part": 10
+},
+{
+"text": "estudos",
+"start": 236.764,
+"end": 237.345,
+"part": 10
+},
+{
+"text": "e",
+"start": 237.394,
+"end": 237.443,
+"part": 10
+},
+{
+"text": "bons",
+"start": 237.491,
+"end": 237.636,
+"part": 10
+},
+{
+"text": "projetos!",
+"start": 237.709,
+"end": 238.436,
+"part": 10
+}
+]
