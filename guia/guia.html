@@ -27,6 +27,7 @@ td{border-bottom:.3mm solid #d7deea;padding:2mm 2.5mm;vertical-align:top}
 .cols{display:flex;gap:6mm}.cols>div{flex:1}
 .rod{font-size:8.5pt;color:#5a6a86;margin-top:6mm;border-top:.3mm solid #d7deea;padding-top:2mm}
 .pb{break-before:page}
+.il{float:right;width:50mm;margin:-2mm 0 1mm 5mm;text-align:center;font-size:8pt;color:#5a6a86;break-inside:avoid}.il img{width:100%;display:block}.il.w{width:60mm}.fim{text-align:center;margin:5mm 0 0;break-inside:avoid}.fim img{width:62mm}.fim p{font-size:11pt;font-weight:800;color:#12356f;margin:0}
 </style></head><body>
 
 <div class="capa"><div class="tag">GUIA BÁSICO</div>
@@ -35,6 +36,7 @@ td{border-bottom:.3mm solid #d7deea;padding:2mm 2.5mm;vertical-align:top}
 
 <img class="m" src="../exemplos/mosaico.jpg" alt="Telas do vídeo de exemplo">
 <div class="leg">Telas do vídeo de exemplo, "Comece bem a sua graduação" (Faculdade Infnet, 4 minutos), feito em um dia de trabalho com o Claude.</div>
+<div class="leg" style="margin-top:-2mm">Ilustrações: prof. Adriana, em aquarela digital gerada por IA a partir de uma foto.</div>
 
 <h2><span>1</span>O que você vai ter no final</h2>
 <div class="cols"><div><ul>
@@ -55,10 +57,45 @@ td{border-bottom:.3mm solid #d7deea;padding:2mm 2.5mm;vertical-align:top}
 <tr><td><b>Fotos (opcional)</b></td><td>10 a 70 fotos reais para o Claude escolher 3 a 5. Confira a autorização de uso de imagem de quem aparece.</td></tr>
 <tr><td><b>Foto para o thumbnail</b></td><td>Uma foto do narrador em boa resolução, com expressão leve. Quadro tirado de vídeo fica sem nitidez.</td></tr></table>
 
-<h2><span>3</span>As etapas, na ordem</h2>
+<h2><span>3</span>Como obter o skill e o kit</h2>
+<p>O skill (a receita que o Claude segue) e o kit (os modelos e arquivos de base) ficam guardados em um repositório privado no GitHub, um site de armazenamento de projetos. Você só precisa fazer isto uma vez.</p>
+<div class="il w"><img src="ilustracoes/aprendendo.jpg" alt="">Cinco passos, uma vez só</div>
+<h3>Passo 1 — Crie a sua conta no GitHub (gratuita)</h3>
+<ol>
+<li>Abra <b>github.com</b> e clique em <b>Sign up</b>.</li>
+<li>Informe o seu e-mail, crie uma senha e escolha um <b>nome de usuário</b> (username).</li>
+<li>O GitHub envia um código para o seu e-mail. Digite o código para confirmar a conta.</li>
+<li>Anote o seu nome de usuário: você vai precisar dele no passo seguinte.</li>
+</ol>
+<h3>Passo 2 — Peça acesso ao repositório</h3>
+<ol>
+<li>Envie o seu nome de usuário do GitHub ao prof. Andre Kischinevsky e peça acesso ao repositório <b>Kischi/video-institucional</b>.</li>
+<li>Quando ele liberar, você recebe um e-mail do GitHub com um convite. Clique em <b>View invitation</b> e depois em <b>Accept invitation</b>. O convite vale por 7 dias.</li>
+</ol>
+<div class="box"><b>Para quem libera o acesso:</b> no repositório, abra <b>Settings</b>, depois <b>Collaborators</b>, clique em <b>Add people</b> e digite o nome de usuário de quem pediu.</div>
+<h3>Passo 3 — Baixe os dois arquivos</h3>
+<ol>
+<li>Já com a sua conta aberta, acesse <b>github.com/Kischi/video-institucional</b> e entre na pasta <b>downloads</b>.</li>
+<li>Clique em <b>video-institucional-skill.zip</b> e depois no botão de download, no alto à direita. Faça o mesmo com <b>kit-video-institucional.zip</b>.</li>
+<li>Não descompacte os arquivos: eles são usados assim mesmo.</li>
+</ol>
+<p>Se quiser também o projeto completo do vídeo de exemplo, com os vídeos do narrador, volte à página inicial do repositório, clique no botão verde <b>Code</b> e em <b>Download ZIP</b>.</p>
+<h3>Passo 4 — Instale o skill no Claude</h3>
+<ol>
+<li>Abra o Claude (claude.ai ou o aplicativo) e clique em <b>Personalizar</b> (Customize), na barra lateral, e depois em <b>Skills</b>.</li>
+<li>Clique no botão <b>+</b>, depois em <b>Create skill</b> e em <b>Upload a skill</b>.</li>
+<li>Escolha o arquivo <b>video-institucional-skill.zip</b>. O skill "video-institucional" aparece na lista; deixe-o ligado.</li>
+</ol>
+<p>Se a área de Skills não aparecer, ative <b>Code execution and file creation</b> em Settings, Capabilities. Em contas de empresa, pode ser preciso que o administrador libere o uso de skills.</p>
+<h3>Passo 5 — Comece o seu vídeo</h3>
+<ol>
+<li>Abra uma conversa nova no Claude e anexe o arquivo <b>kit-video-institucional.zip</b>, junto com o material da seção 2 (documento-fonte, logotipo, vídeo ou foto do narrador).</li>
+<li>Escreva o pedido da Etapa 1, na próxima seção. O Claude conduz o resto.</li>
+</ol>
+<h2><span>4</span>As etapas, na ordem</h2>
 <p>A ordem importa: cada etapa depende da anterior, e as últimas são as mais caras de refazer. Aprove uma antes de pedir a próxima.</p>
 
-<h3>Etapa 1 — O texto da fala</h3>
+<div class="il"><img src="ilustracoes/ideia.jpg" alt="">A ideia vira texto</div><h3>Etapa 1 — O texto da fala</h3>
 <div class="fala">"Use o skill Vídeo Institucional. Quero um vídeo de uns 4 minutos explicando [assunto] para [público], com base neste documento. Comece pelo texto da fala, em um documento editável."</div>
 <p>Leia em voz alta, corte o que sobra, corrija termos. Cerca de 650 palavras dão 4 minutos. <b>Feche o texto de verdade</b>: mudar a fala depois obriga a refazer voz, sincronização dos lábios e encaixe da música.</p>
 
@@ -72,7 +109,7 @@ td{border-bottom:.3mm solid #d7deea;padding:2mm 2.5mm;vertical-align:top}
 <h3>Etapa 4 — A narração</h3>
 <p>O Claude gera a voz em partes, duas versões de cada. Você ouve e diz "primeira" ou "segunda". Preste atenção em siglas, nomes próprios e palavras estrangeiras: são onde a voz sintética erra. Depois ele monta o arquivo completo. <b>Ouça o arquivo completo e aprove</b> antes de seguir.</p>
 
-<h3>Etapa 5 — Animação, narrador e render</h3>
+<div class="il"><img src="ilustracoes/dificil.jpg" alt="">A parte mais técnica: o Claude conduz</div><h3>Etapa 5 — Animação, narrador e render</h3>
 <p>O Claude anima as cenas no tempo de cada frase e monta o vídeo do narrador. Com ElevenLabs, ele pede que você envie dois arquivos (um vídeo e um áudio) por um seletor na conversa, <b>um de cada vez</b>, para sincronizar os lábios. O render leva cerca de 20 minutos.</p>
 
 <h3>Etapa 6 — A trilha, por último</h3>
@@ -82,7 +119,7 @@ td{border-bottom:.3mm solid #d7deea;padding:2mm 2.5mm;vertical-align:top}
 <h3>Etapa 7 — Thumbnail e outras versões</h3>
 <div class="fala">"Faça um thumbnail bonito de YouTube para este vídeo." &nbsp;/&nbsp; "Agora faça a versão com a identidade da [outra marca]."</div>
 
-<h2><span>4</span>Com ou sem ElevenLabs</h2>
+<h2><span>5</span>Com ou sem ElevenLabs</h2>
 <table><tr><th style="width:22%">Parte</th><th style="width:39%">Com ElevenLabs</th><th>Sem ElevenLabs</th></tr>
 <tr><td><b>Voz</b></td><td>Voz clonada lê o texto. Corrigir uma frase é regravar um parágrafo em segundos.</td><td>A pessoa grava a leitura. Corrigir é gravar de novo o trecho.</td></tr>
 <tr><td><b>Tempo de cada palavra</b></td><td>Alinhamento automático, sem custo.</td><td>Um transcritor com tempos por palavra (por exemplo, Whisper).</td></tr>
@@ -92,14 +129,14 @@ td{border-bottom:.3mm solid #d7deea;padding:2mm 2.5mm;vertical-align:top}
 
 <div class="box"><b>Quanto custou o exemplo.</b> O vídeo de 4 minutos consumiu cerca de 56 mil créditos do ElevenLabs (uns US$ 10), contando três rodadas de revisão. Uma produção direta fica perto de 25 mil créditos: voz 8 mil, sincronização dos lábios 9 mil, trilha 3,7 mil e uma margem para regravações. A sincronização dos lábios é o item mais caro e é refeita sempre que a fala muda.</div>
 
-<h2><span>5</span>Para outro narrador</h2>
+<h2><span>6</span>Para outro narrador</h2>
 <ol>
 <li><b>Voz:</b> clone a voz dele no ElevenLabs (alguns minutos de áudio limpo, com autorização dele) ou peça a gravação da leitura.</li>
 <li><b>Imagem:</b> envie um vídeo dele falando de frente, fundo neutro, sem letreiros sobre o rosto. O Claude recorta de 8 a 12 trechos de 5 a 20 segundos. Quanto mais trechos, menos repetição.</li>
 <li><b>Apresentação:</b> diga como ele se apresenta (nome e cargo), na fala e no letreiro.</li>
 </ol>
 
-<h2><span>6</span>Para outra identidade visual</h2>
+<h2><span>7</span>Para outra identidade visual</h2>
 <ol>
 <li>Envie o logotipo (versão clara, para fundo escuro), as cores e a fonte.</li>
 <li>Diga qual é a cor de destaque (no exemplo, o amarelo) e a cor de fundo (o azul-marinho).</li>
@@ -107,7 +144,7 @@ td{border-bottom:.3mm solid #d7deea;padding:2mm 2.5mm;vertical-align:top}
 </ol>
 <p>Se o mesmo vídeo vai sair em duas marcas, <b>não cite o nome da instituição na fala</b>. Assim a mesma narração e a mesma sincronização servem para as duas, e só as cores e o logotipo mudam.</p>
 
-<h2><span>7</span>O que aprendemos fazendo</h2>
+<h2><span>8</span>O que aprendemos fazendo</h2>
 <ul>
 <li><b>Uma etapa por vez.</b> Texto, depois quadros, depois voz, depois o resto. Pular etapas sai caro.</li>
 <li><b>O Claude não ouve nem assiste.</b> Ele mede e confere quadros parados, mas quem julga voz, lábios, música e ritmo é você. Diga o minuto e o segundo do que quer mudar.</li>
@@ -119,5 +156,5 @@ td{border-bottom:.3mm solid #d7deea;padding:2mm 2.5mm;vertical-align:top}
 <li><b>Peça o custo antes</b> de cada geração paga e o total ao fim de cada rodada.</li>
 </ul>
 
-<div class="rod">Repositório privado Kischi/video-institucional · skill em <b>video-institucional/SKILL.md</b> · kit e comandos em <b>video-institucional/kit/LEIA-ME.md</b> · novembro de 2026</div>
+<div class="fim"><img src="ilustracoes/pronto.jpg" alt=""><p>Vídeo pronto!</p></div><div class="rod">Repositório privado Kischi/video-institucional · arquivos prontos na pasta <b>downloads</b> · skill em <b>video-institucional/SKILL.md</b> · comandos em <b>video-institucional/kit/LEIA-ME.md</b> · novembro de 2026</div>
 </body></html>

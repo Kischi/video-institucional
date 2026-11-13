@@ -12,6 +12,7 @@ Exemplo completo: **"Comece bem a sua graduação"** (Faculdade Infnet, 4min02s,
 | [`guia/guia-video-institucional.pdf`](guia/guia-video-institucional.pdf) | Guia curto para quem não é especialista: como pedir um vídeo desses ao Claude, com outro narrador e outra identidade visual. **Comece por aqui.** |
 | [`video-institucional/SKILL.md`](video-institucional/SKILL.md) | O skill: a receita que o Claude segue, com tudo o que foi aprendido na produção. |
 | [`video-institucional/kit/`](video-institucional/kit/) | O projeto completo e reproduzível do vídeo de exemplo: gerador das cenas, scripts de áudio, narrador, trilha, thumbnail, fontes, ícones, logotipos, fotos e os binários (narração, trechos do narrador, vídeo com lip-sync, trilha). Comandos em [`LEIA-ME.md`](video-institucional/kit/LEIA-ME.md). |
+| [`downloads/`](downloads/) | Dois arquivos prontos para quem só quer usar: `video-institucional-skill.zip` (para instalar o skill no Claude, em Personalizar > Skills) e `kit-video-institucional.zip` (kit enxuto de 12 MB para anexar na conversa). O passo a passo está no guia. |
 | [`exemplos/`](exemplos/) | 14 telas do vídeo, mosaico, thumbnail, vídeo em 720p e legendas. |
 
 ## Como usar
